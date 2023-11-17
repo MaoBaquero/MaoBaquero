@@ -1,8 +1,5 @@
 ### Hola 👋
-
-<span>![</span><span>Banner no pudo ser cargado</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/MaoBaquero/MaoBaquero/main/front-git.png</span><span>)</span>
-                                                                                      
-
+![](https://raw.githubusercontent.com/MaoBaquero/MaoBaquero/main/front-git.png)                                                                                    
 
 ¡Bienvenido a mi perfil de GitHub!
 
