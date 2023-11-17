@@ -11,4 +11,4 @@ Soy Ingeniero de Software y de Sistemas. Me especializo en programación, proyec
 - Email: mauricio.baquero@codigo200.com
 
 ## Escanea para hablar por WhatsApp  ℹ️
-
+![](https://raw.githubusercontent.com/MaoBaquero/MaoBaquero/main/ws-mauricio-baquero) 
