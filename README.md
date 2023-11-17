@@ -1,6 +1,6 @@
 ### Hola 👋
 
-<span>![</span><span>Banner no pudo ser cargado</span><span>]</span><span>(</span><span>https://github.com/MaoBaquero/MaoBaquero/blob/main/front-git.png?raw=true</span><span>)</span>
+<span>![</span><span>Banner no pudo ser cargado</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/MaoBaquero/MaoBaquero/main/ImagenV1.png</span><span>)</span>
                                                                                       
 
 
